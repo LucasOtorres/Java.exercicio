@@ -1,0 +1,12 @@
+int a,b,resultado;
+     a = Integer.parseInt(JOptionPane.showInputDialog("Insira valor de A"));
+     b = Integer.parseInt(JOptionPane.showInputDialog("Insira valor de B"));
+     if (a > b)
+     {  
+       JOptionPane.showMessageDialog(null,"O maior é  A" + a  +b);   
+     }    
+     else
+       JOptionPane.showMessageDialog(null,"O maior é B = " + b  +a); 
+    }
+    }
+CORRIGIR SEPARO DE VARIAVEL NAS RESPOSTAS
